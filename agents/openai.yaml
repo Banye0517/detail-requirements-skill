@@ -1,0 +1,4 @@
+interface:
+  display_name: "详情需求表"
+  short_description: "输入产品名称和卖点，生成带逐屏文案、三张详情参考图及来源链接的运营Excel工单"
+  default_prompt: "使用 $detail-requirements，根据产品名称和卖点调研指定品牌并生成详情需求表。"
