@@ -5,3 +5,5 @@ __pycache__/
 .env
 .env.*
 work/
+examples/angus-beef-wireframe/_shots/*.raw.png
+examples/angus-beef-wireframe/source-copy.xlsx

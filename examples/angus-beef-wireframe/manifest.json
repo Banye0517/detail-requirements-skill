@@ -1,0 +1,98 @@
+[
+ {
+  "id": "s01",
+  "row": 9,
+  "label": "U10 · 第1屏",
+  "task": "是什么",
+  "headline": "牛肉做成香脆零食",
+  "template": "首屏识别"
+ },
+ {
+  "id": "s02",
+  "row": 12,
+  "label": "U11 · 第2屏",
+  "task": "原料为什么值得选",
+  "headline": "优选澳洲安格斯牛肉",
+  "template": "原料大图"
+ },
+ {
+  "id": "s03",
+  "row": 15,
+  "label": "U12 · 第3屏",
+  "task": "配料一眼看懂",
+  "headline": "配料只有牛肉和盐",
+  "template": "配料卡"
+ },
+ {
+  "id": "s04",
+  "row": 18,
+  "label": "U13 · 第4屏",
+  "task": "工艺怎样形成特点",
+  "headline": "低温慢烘做成牛肉脆",
+  "template": "三节点流程"
+ },
+ {
+  "id": "s05",
+  "row": 21,
+  "label": "U14 · 第5屏",
+  "task": "看见成品质地",
+  "headline": "近看这一片牛肉脆",
+  "template": "近景微距"
+ },
+ {
+  "id": "s06",
+  "row": 24,
+  "label": "U15 · 第6屏",
+  "task": "四个食用场景",
+  "headline": "四个时刻来点牛肉脆",
+  "template": "四宫格场景"
+ },
+ {
+  "id": "s07",
+  "row": 27,
+  "label": "U16 · 第7屏",
+  "task": "规格和食用说明",
+  "headline": "产品信息一页看清",
+  "template": "信息表"
+ },
+ {
+  "id": "s08",
+  "row": 31,
+  "label": "U20 · 主图1",
+  "task": "识别产品",
+  "headline": "安格斯牛肉脆",
+  "template": "主图组成框"
+ },
+ {
+  "id": "s09",
+  "row": 34,
+  "label": "U21 · 主图2",
+  "task": "强调原料",
+  "headline": "优选澳洲安格斯牛肉",
+  "template": "主图组成框"
+ },
+ {
+  "id": "s10",
+  "row": 37,
+  "label": "U22 · 主图3",
+  "task": "配料简单",
+  "headline": "配料只有牛肉和盐",
+  "template": "主图组成框"
+ },
+ {
+  "id": "s11",
+  "row": 40,
+  "label": "U23 · 主图4",
+  "task": "强调工艺",
+  "headline": "低温慢烘牛肉脆",
+  "template": "主图组成框"
+ },
+ {
+  "id": "s12",
+  "row": 43,
+  "label": "U24 · 主图5",
+  "task": "产品白底图",
+  "headline": "安格斯牛肉脆",
+  "template": "主图组成框"
+ }
+]
